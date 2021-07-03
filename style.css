@@ -1,0 +1,30 @@
+body
+ {
+background-color: Green;
+background-size: cover;
+font-family: Arial;
+
+}
+ul
+{
+display: inline-flex;
+margin: 0px;
+padding: 0px;
+list-style: none;
+
+}
+ul li
+{
+float: left;
+width: 200px;
+height: 40px;
+background-color:red;
+opacity: .8;
+line-height: 40px;
+text-align:center;
+font-size: 20px;
+
+}
+h3{
+    color: red;
+}
